@@ -2,7 +2,7 @@
   "name": "myproduct-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/bhua676/CICD_GitAction_Demo",
+  "homepage": "https://bhua676.github.io/CICD_GitAction_Demo",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.0",
